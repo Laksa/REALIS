@@ -1,2 +1,2 @@
-URA Real Estate Information System (REIS)
+URA Real Estate Information System (REALIS)
 ======
